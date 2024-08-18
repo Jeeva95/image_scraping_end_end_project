@@ -74,5 +74,5 @@ def index():
 
 
 if __name__ == "__main__":
-    app.run()                 # local host - app.run(host="0.0.0.0",port=8000)
+    app.run(host="0.0.0.0",port=8000)                 # local host - app.run(host="0.0.0.0",port=8000)
 
